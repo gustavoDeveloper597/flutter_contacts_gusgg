@@ -22,7 +22,7 @@ rootProject.allprojects {
 apply plugin: 'com.android.library'
 
 android {
-    namespace 'com.tuempresa.contactsservice'
+    namespace 'com.gva.contactsservice'
     compileSdkVersion 30
 
     defaultConfig {
